@@ -1,0 +1,331 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #ffffff;
+    background-color: #6B2737;
+    margin: 0px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  header {
+    background-color: #311211;
+    height: 100px;
+    
+    padding-top: 5px;
+    margin: 0px;
+  }
+  h1 {
+    font-size: 24px;
+    width: 180px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    text-align: center;
+     }
+     #paginarosa{
+      background-color: #AA7D88;
+    }
+
+
+  header nav ul {
+    float: right;
+    height: max-content;
+    margin: 0px;;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+}
+  h2 {
+font-size: 120;
+height: 1;
+color: rgb(0, 0, 0);
+font-family: Arial, sans-serif;
+text-align: center;
+  }
+
+
+section.card{
+  display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+  
+
+
+
+
+#scritta{
+  padding-top: 700px;
+  padding-left: 100px;
+}
+.rectangle{
+  position: absolute;
+  padding-top: 1000px;
+}
+
+seconda pagina
+
+#centrale{
+  text-align: center;
+  float: left;
+  position: absolute;
+  padding-left: 500px;
+  padding-top: 50px;
+}
+
+#camilo1{
+  position: absolute;
+  padding-left: 150px;
+  padding-top: 100px;
+}
+
+#camilo2{
+  position: absolute;
+  padding-left: 850px;
+  padding-top: 15px;
+}
+  
+#camilo3{
+
+position: absolute;
+padding-left: 100px;
+padding-top: 400px;
+}
+
+#camilo4{
+  position: absolute;
+  padding-left: 750px;
+  padding-top: 350px;
+}
+
+#camilo5{
+  position: absolute;
+  padding-left: 500px;
+  padding-top: 150px;
+}
+
+
+
+
+
+#Tim1{
+  position: absolute;
+  padding-left: 180px;
+  padding-top: 350px;
+}
+
+#tim2{
+  position:absolute;
+  padding-left: 640px;
+  padding-top: 350px;
+}
+
+#tim3{
+  position: absolute;
+  padding-left: 400px;
+  padding-top: 150px;
+}
+
+#tim4{
+  position: absolute;
+  padding-left: 680px;
+  padding-top: 20px;
+}
+
+#tim5{
+  position: absolute;
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+
+#karlotta1{
+  position: absolute;
+  padding-left: 890px;
+  padding-top: 80px;
+}
+
+#karlotta2{
+  position: absolute;
+  padding-left: 1000px;
+  padding-top: 650px;
+}
+
+#karlotta3{
+  position: absolute;
+  padding-left: 350px;
+  padding-top: 600px;
+}
+
+#karlotta4{
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 80px;
+}
+
+#karlotta5{
+  position: absolute;
+  padding-left: 600px;
+  padding-top: 1090px;
+}
+
+#xoana1{
+  position: absolute;
+  padding-left: 500px;
+  padding-top: 100px;
+}
+
+#xoana2{
+  position: absolute;
+  padding-left: 850px;
+  padding-top: 1px;
+}
+  
+#xoana3{
+
+position: absolute;
+padding-left: 150px;
+padding-top: 380px;
+}
+
+#xoana4{
+  position: absolute;
+  padding-left: 790px;
+  padding-top: 350px;
+}
+
+#xoana5{
+  position: absolute;
+  padding-left: 200px;
+  padding-top: 80px;
+}
+
+#lin1{
+  position: absolute;
+  padding-left: 180px;
+  padding-top: 350px;
+}
+
+#lin2{
+  position:absolute;
+  padding-left: 640px;
+  padding-top: 350px;
+}
+
+#lin3{
+  position: absolute;
+  padding-left: 400px;
+  padding-top: 150px;
+}
+
+#lin4{
+  position: absolute;
+  padding-left: 680px;
+  padding-top: 20px;
+}
+
+#lin5{
+  position: absolute;
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+#boca1{
+  position: absolute;
+  padding-left: 890px;
+  padding-top: 80px;
+}
+
+#boca2{
+  position: absolute;
+  padding-left: 1000px;
+  padding-top: 650px;
+}
+
+#boca3{
+  position: absolute;
+  padding-left: 350px;
+  padding-top: 600px;
+}
+
+#boca4{
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 80px;
+}
+
+#boca5{
+  position: absolute;
+  padding-left: 600px;
+  padding-top: 1090px;
+}
+
+#rettangolofinale1{
+  position: absolute;
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+
+#sbarra1{
+  position: absolute;
+  padding-left: 855px;
+  padding-top: 500px;
+}
+
+#sbarra2{
+  position: absolute;
+  padding-left: 970px;
+  padding-top: 1050px;
+}
+
+#sbarra3{
+  position: absolute;
+  padding-left: 315px;
+  padding-top: 930px;
+}
+
+#sbarra4{
+  position: absolute;
+  padding-left: 265px;
+  padding-top: 400px;
+}
+
+#sbarra5{
+  position: absolute;
+  padding-left: 565px;
+  padding-top: 1340px;
+}
+
+
+
+
+main img{
+  width: 200px;
+  height: 200px;
+}
+
+
+
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
